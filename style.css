@@ -12,9 +12,10 @@ body{
 	height:80px;
 	padding:5px;
 	background:url('oook.jpg');
-	text-align:left;
+	text-align:center;
 	color:#00008;
 	margin-bottom:5px;
+	width:100px;
 	
 }
 #halaman{
@@ -115,6 +116,7 @@ nav ul ul ul li{
 
 
 	
+
 
 
 
